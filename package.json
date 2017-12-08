@@ -1,0 +1,28 @@
+{
+  "name": "scuttlebutt-emoji",
+  "version": "1.0.0",
+  "description": "scuttlebutt id to emoji and vice-versa",
+  "main": "index.js",
+  "dependencies": {
+    "base-emoji": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangwao/scuttlebutt-emoji.git"
+  },
+  "keywords": [
+    "scuttlebutt",
+    "emoji",
+    "patchwork"
+  ],
+  "author": "Matej @yangwao Nemcek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yangwao/scuttlebutt-emoji/issues"
+  },
+  "homepage": "https://github.com/yangwao/scuttlebutt-emoji#readme"
+}
