@@ -1,7 +1,7 @@
 // ssb://@NaDXehMSIgk08W5RXZJ0p+7m+19iIWEuAtD7FRESJX8=.ed25519
+
 const baseEmoji = require('base-emoji')
 const buf = Buffer.from('@NaDXehMSIgk08W5RXZJ0p+7m+19iIWEuAtD7FRESJX8=.ed25519', 'ascii')
-console.log(baseEmoji.fromUnicode(baseEmoji.toUnicode(buf)).toString('utf8'))
 const id = process.argv[2]
 const op = process.argv[3]
 
